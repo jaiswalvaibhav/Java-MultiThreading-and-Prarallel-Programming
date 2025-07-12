@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.multithreading</groupId>
-	<artifactId>springboot-threads</artifactId>
+	<artifactId>springboot-multithreading</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-threads</name>
 	<description>Understanding how threads work in Springboot application</description>
